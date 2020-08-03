@@ -1,6 +1,6 @@
 # Cops and Robbers - The Game
 
-Developers: Akshat Singh (@Akshat-Singh), Vibodh Nautiyal (@vibodhnautiyal), Nikhil Bhave (@XSiege999), Khushi Mehta (@khushi678)
+Developers: Nikhil Bhave (@XSiege999), Akshat Singh (@Akshat-Singh), Vibodh Nautiyal (@vibodhnautiyal), Khushi Mehta (@khushi678)
 
 Organization: Ashoka University
 
